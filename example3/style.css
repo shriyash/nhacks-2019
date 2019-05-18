@@ -1,0 +1,32 @@
+html,body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica';
+  text-align: center;
+
+}
+
+h1{
+  margin: 0;
+  font-size: 8em;
+
+}
+
+#hello-world {
+  height: 33%;
+  background-color: #F35F5F;
+  color: #F1EA65;
+}
+
+#hello-world-two {
+  height: 33%;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+#hello-world-three {
+  height: 33%;
+  background-color: #ffffff;
+  color: #000000;
+}
